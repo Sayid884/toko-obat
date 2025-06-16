@@ -2,7 +2,7 @@
 # cara menjalankan
 1.donwload database toko obat di folder database
 2.import databasenya di xampp
-3.jalankan codenya denagn run file fromlogin di folder vew
+3.jalankan codenya dengan run file fromlogin di folder vew
 # Fitur Utama yang Bisa Dilakukan Pengguna:
 1. Login sebagai Petugas
 Masuk ke sistem menggunakan username dan password.
